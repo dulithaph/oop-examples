@@ -2,9 +2,9 @@ package com.company;
 
 public interface Animal {
 
-    public static final String name = "Animal";
+    String name = "Animal";   //public static final
     int a=4;
-    public void animalSound();
+    void animalSound();      //public abstract void
 }
 
 
