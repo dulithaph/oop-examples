@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/GitTutorial.iml" filepath="$PROJECT_DIR$/.idea/GitTutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/abstraction/abstraction.iml" filepath="$PROJECT_DIR$/abstraction/abstraction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/encapsulation/encapsulation.iml" filepath="$PROJECT_DIR$/encapsulation/encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inheritance/inheritance.iml" filepath="$PROJECT_DIR$/inheritance/inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interface/interface.iml" filepath="$PROJECT_DIR$/interface/interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/polymorphism/polymorphism.iml" filepath="$PROJECT_DIR$/polymorphism/polymorphism.iml" />
+    </modules>
+  </component>
+</project>
